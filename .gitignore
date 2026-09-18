@@ -1,0 +1,8 @@
+fixtures/local/
+build/
+build-*/
+out/
+.vs/
+.idea/
+__pycache__/
+*.pyc
